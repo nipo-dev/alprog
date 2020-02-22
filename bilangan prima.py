@@ -1,4 +1,4 @@
-#Program untuk memeriksa bilangan prima atau bukan
+#Program Untuk Memeriksa Bilangan Prima atau Bukan
 
 bilangan = int(input("Masukkan bilangan: "))
 if bilangan > 1:
