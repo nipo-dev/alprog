@@ -6,4 +6,6 @@ a=x+y #penjumlahan
 b=x-y #pengurangan
 c=x*y #perkalian
 d=x%y #sisa pembagian
-print(d)
+e=x^y #XOR
+f=x|y
+print(f)
