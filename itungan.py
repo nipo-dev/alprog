@@ -7,5 +7,5 @@ b=x-y #pengurangan
 c=x*y #perkalian
 d=x%y #sisa pembagian
 e=x^y #XOR
-f=x|y
+f=x|y #OR
 print(f)
